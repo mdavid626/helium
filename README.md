@@ -1,8 +1,8 @@
 # helium
 
-WPF application used for editing XML based configuration for deploying web and other applications in a Microsoft environment. It was developed as a part of my Bachelor thesis. The full project is available in the repo [triton](https://github.com/mdavid626/triton).
+WPF application used for editing XML based configuration files and for running deployment of web and other applications in a Microsoft environment. It was developed as a part of my Bachelor thesis. The full project is available in the repo [triton](https://github.com/mdavid626/triton).
 
-It is an MVVM application, using the Caliburn.Micro framework. 
+It is an MVVM application using the Caliburn.Micro framework. 
 
 ## Demo
 
